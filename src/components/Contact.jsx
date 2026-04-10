@@ -52,7 +52,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-gray-400">Email Me</h4>
-                  <a href="mailto:dhanushselvaraj@codux.fun" className="text-lg text-white group-hover:text-primary transition-colors">dhanushselvaraj@codux.fun</a>
+                  <a href="mailto:dev@dhanushs.in" className="text-lg text-white group-hover:text-primary transition-colors">dev@dhanushs.in</a>
                 </div>
               </div>
 
@@ -112,7 +112,7 @@ const Contact = () => {
                   onChange={handleChange}
                   required
                   className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-colors"
-                  placeholder="dhanushselvaraj@codux.fun"
+                  placeholder="dev@dhanushs.in"
                 />
               </div>
               <div>
